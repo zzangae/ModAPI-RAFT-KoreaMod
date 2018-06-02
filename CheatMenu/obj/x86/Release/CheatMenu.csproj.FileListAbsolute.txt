@@ -1,0 +1,5 @@
+D:\dll\RAFT\modapi_20180524_1.0.5.0\projects\Raft\CheatMenu\Mod\CheatMenu.dll
+D:\dll\RAFT\modapi_20180524_1.0.5.0\projects\Raft\CheatMenu\Mod\CheatMenu.pdb
+D:\dll\RAFT\modapi_20180524_1.0.5.0\projects\Raft\CheatMenu\obj\x86\Release\CheatMenu.csproj.CoreCompileInputs.cache
+D:\dll\RAFT\modapi_20180524_1.0.5.0\projects\Raft\CheatMenu\obj\x86\Release\CheatMenu.dll
+D:\dll\RAFT\modapi_20180524_1.0.5.0\projects\Raft\CheatMenu\obj\x86\Release\CheatMenu.pdb

@@ -1,0 +1,66 @@
+<Mod ID="CheatMenu">
+  <Compatible>1.01b</Compatible>
+  <Button Standard="F1" ID="Paint">
+    <Name>
+      <EN>Add Paint</EN>
+    </Name>
+    <Description>
+      <EN>Add the required amount of paint.</EN>
+    </Description>
+  </Button>
+  <Button Standard="F2" ID="Items">
+    <Name>
+      <EN>Item to eat</EN>
+    </Name>
+    <Description>
+      <EN>Add an item that you can eat.</EN>
+    </Description>
+  </Button>
+  <Button Standard="F3" ID="StatFull">
+    <Name>
+      <EN>Stat Full</EN>
+    </Name>
+    <Description>
+      <EN>Fill the player's stats.</EN>
+    </Description>
+  </Button>
+  <Button Standard="F4" ID="TimeScale">
+    <Name>
+      <EN>Time Scale</EN>
+    </Name>
+    <Description>
+      <EN>Time flows quickly.</EN>
+    </Description>
+  </Button>
+  <Button Standard="F5" ID="TimeClear">
+    <Name>
+      <EN>Reset Time</EN>
+    </Name>
+    <Description>
+      <EN>Reset Time</EN>
+    </Description>
+  </Button>
+  <Button Standard="F6" ID="CameraPause">
+    <Name>
+      <EN>Pause camera</EN>
+    </Name>
+    <Description>
+      <EN>Pause camera</EN>
+    </Description>
+  </Button>
+  <Button Standard="F9" ID="CursorLock">
+    <Name>
+      <EN>Cursor Lock</EN>
+    </Name>
+    <Description>
+      <EN>Cursor Lock Mode</EN>
+    </Description>
+  </Button>
+  <Name>
+    <EN>CheatMenu</EN>
+  </Name>
+  <Description>
+    <EN>CheatMenu</EN>
+  </Description>
+  <Version>1.0.0.0</Version>
+</Mod>

@@ -1,0 +1,5 @@
+D:\dll\RAFT\modapi_20180524_1.0.5.0\projects\Raft\testWin1\Mod\testWin1.dll
+D:\dll\RAFT\modapi_20180524_1.0.5.0\projects\Raft\testWin1\Mod\testWin1.pdb
+D:\dll\RAFT\modapi_20180524_1.0.5.0\projects\Raft\testWin1\obj\x86\Release\testWin1.csproj.CoreCompileInputs.cache
+D:\dll\RAFT\modapi_20180524_1.0.5.0\projects\Raft\testWin1\obj\x86\Release\testWin1.dll
+D:\dll\RAFT\modapi_20180524_1.0.5.0\projects\Raft\testWin1\obj\x86\Release\testWin1.pdb
